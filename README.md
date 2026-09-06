@@ -1,7 +1,7 @@
 ### Javier Cabero
 
 Software Engineer at Google, in Zürich. Over a decade in the industry, working
-on ML training infrastructure. I love videogames and procedural algorithms.
+on ML training infrastructure. I love procedural algorithms and gameplay design.
 
 <table>
 <tr>
