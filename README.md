@@ -13,7 +13,7 @@ Conway's Game of Life in three dimensions — a single instanced OpenGL draw cal
 </td>
 <td width="50%" valign="top">
 <a href="https://github.com/reivash/mandelsurf">
-  <img src="https://raw.githubusercontent.com/reivash/mandelsurf/main/screenshots/gameplay-preview.gif" width="100%">
+  <img src="https://raw.githubusercontent.com/reivash/mandelsurf/main/screenshots/gameplay-2.jpg" width="100%">
 </a>
 <b><a href="https://github.com/reivash/mandelsurf">mandelsurf</a></b><br>
 An endless surfing game down the real, live coastline of a continuously zooming Mandelbrot set.
