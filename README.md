@@ -36,6 +36,3 @@ A VR roguelike shooter through procedurally generated arenas. Early Access on St
 </td>
 </tr>
 </table>
-
-Most at home in **C++**, with Python, JavaScript, and Java close behind. I like
-problems near the metal — rendering, simulation, and making slow things fast.
