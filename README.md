@@ -38,7 +38,7 @@ Wolfram's elementary cellular automata. Rule 110 alone is Turing complete.
 <tr>
 <td colspan="2" align="center" valign="top">
 <a href="https://store.steampowered.com/app/3978730/Superposition_VR/">
-  <img src="https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3978730/0b3dd7f9f145a366aa67f3d7f4b5d0cb85e5701f/capsule_616x353.jpg" width="50%">
+  <img src="https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3978730/0b3dd7f9f145a366aa67f3d7f4b5d0cb85e5701f/capsule_616x353.jpg" width="100%">
 </a>
 <br><b><a href="https://store.steampowered.com/app/3978730/Superposition_VR/">Superposition VR</a></b><br>
 A VR roguelike shooter through procedurally generated arenas. Early Access on Steam.
