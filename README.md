@@ -1,8 +1,7 @@
 ### Javier Cabero
 
-Software Engineer at Google, in Zürich — over a decade in the industry, most
-recently on ML training infrastructure. I love videogames and procedural
-algorithms.
+Software Engineer at Google, in Zürich. Over a decade in the industry, working
+on ML training infrastructure. I love videogames and procedural algorithms.
 
 <table>
 <tr>
@@ -11,7 +10,7 @@ algorithms.
   <img src="https://raw.githubusercontent.com/reivash/game-of-life-3d/master/screenshots/02-generation-45.png" width="100%">
 </a>
 <b><a href="https://github.com/reivash/game-of-life-3d">game-of-life-3d</a></b><br>
-Conway's Game of Life in three dimensions — a single instanced OpenGL draw call renders the whole colony.
+Conway's Game of Life in three dimensions, rendered with a single instanced OpenGL draw call.
 </td>
 <td width="50%" valign="top">
 <a href="https://github.com/reivash/mandelsurf">
@@ -27,7 +26,7 @@ An endless surfing game down the real, live coastline of a continuously zooming 
   <img src="https://raw.githubusercontent.com/reivash/cellular-automaton-1d/master/docs/gallery.png" width="100%">
 </a>
 <b><a href="https://github.com/reivash/cellular-automaton-1d">cellular-automaton-1d</a></b><br>
-Wolfram's elementary cellular automata — rule 110 alone is Turing-complete.
+Wolfram's elementary cellular automata. Rule 110 alone is Turing complete.
 </td>
 <td width="50%" valign="top">
 <a href="https://store.steampowered.com/app/3978730/Superposition_VR/">
